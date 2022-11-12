@@ -1,0 +1,57 @@
+[
+  {
+    "img": "https://rb.gy/3yg5ql",
+    "location": "Private room in the city of Jalpaiguri",
+    "title": "Stay at Greater Kailash The Palace",
+    "description": "Wifi · Free breakfast · Free parking · Air-conditioned · Laundry service · Pet friendly · Smoke-free",
+    "star": 4.2,
+    "price": "₹3218 / night",
+    "total": "₹4597 total",
+    "long": 26.52551,
+    "lat": 88.72789
+  },
+  {
+    "img": "https://rb.gy/fumxhh",
+    "location": "Private room in the forest of Gorumara",
+    "title": "Stay at The Reserve Gorumara",
+    "description": "Free breakfast · Laundry Service · Child friendly · Restaurant · Airport shuttle · Air-conditioned",
+    "star": 4.7,
+    "price": "₹2024 / night",
+    "total": "₹2400 total",
+    "long": 26.68231,
+    "lat": 88.76057
+  },
+  {
+    "img": "https://rb.gy/pudsyu",
+    "location": "Cottage in the beautiful city of Chalsa",
+    "title": "Stay at Sinclairs Retreat Dooars",
+    "description": "Free Wi-Fi · Outdoor pool · Child friendly · Pet-friendly · Restaurant · Air-conditioned · Laundry service",
+    "star": 4.9,
+    "price": "₹9259 / night",
+    "total": "₹9500 total",
+    "long": 26.88575,
+    "lat": 88.80215
+  },
+  {
+    "img": "https://rb.gy/vqs3ik",
+    "location": "A luxurious & private room in the city of Dhupjhora",
+    "title": "Stay at The Riverwood Forest Retreat Dooars",
+    "description": "Free Wi-Fi · Outdoor pool · Free parking · Business centre · Hot-tub · Air-conditioned · Bar",
+    "star": 4.3,
+    "price": "₹6300 / night",
+    "total": "₹6782 total",
+    "long": 26.80828,
+    "lat": 88.82229
+  },
+  {
+    "img": "https://rb.gy/o8cgmw",
+    "location": "A luxurious palace hotel in the peaceful city of Gajoldoba",
+    "title": "Stay at La Vita Nuova Resort & Spa, Gajoldoba",
+    "description": "Free Wi-Fi · Outdoor pool · Free parking · Laundry service · Pet friendly · Air-conditioned · Kitchens",
+    "star": 4.6,
+    "price": "₹5203 / night",
+    "total": "₹5473 total",
+    "long": 26.74284,
+    "lat": 88.57506
+  }
+]

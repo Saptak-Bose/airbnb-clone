@@ -1,0 +1,42 @@
+[
+  {
+    "img": "https://rb.gy/qrwwf5",
+    "location": "Jalpaiguri",
+    "distance": "1-hour drive"
+  },
+  {
+    "img": "https://rb.gy/ukdoqk",
+    "location": "Kalimpong",
+    "distance": "2.5-hour drive"
+  },
+  {
+    "img": "https://rb.gy/abhfqj",
+    "location": "Kolkata",
+    "distance": "1.3-hour flight"
+  },
+  {
+    "img": "https://rb.gy/nonym3",
+    "location": "Digha",
+    "distance": "13.5-hour drive"
+  },
+  {
+    "img": "https://rb.gy/p5kh6f",
+    "location": "Puri",
+    "distance": "3.2-hour flight"
+  },
+  {
+    "img": "https://rb.gy/zd8lew",
+    "location": "Bhubaneshwar",
+    "distance": "3-hour flight"
+  },
+  {
+    "img": "https://rb.gy/erz8z4",
+    "location": "Gangtok",
+    "distance": "5-hour drive"
+  },
+  {
+    "img": "https://rb.gy/xtjsbh",
+    "location": "Kurseong",
+    "distance": "1.5-hour drive"
+  }
+]
